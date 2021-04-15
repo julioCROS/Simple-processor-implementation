@@ -1,0 +1,206 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\pratica_2 - Julio e Iagor\pratica_2\simulation\modelsim
+vdec3to8
+!i10b 1
+!s100 B5gZzG4oml2`jn9e2=5QC1
+I9Xab0LT<:g:Bob_82JL560
+V3MQ7SOW6nNK?k^ze_@^7O1
+Z1 dC:\pratica_2 - Julio e Iagor\pratica_2\simulation\modelsim
+Z2 w1614349215
+8C:/pratica_2 - Julio e Iagor/pratica_2/dec3to8.v
+FC:/pratica_2 - Julio e Iagor/pratica_2/dec3to8.v
+L0 1
+Z3 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1614370244.415000
+!s107 C:/pratica_2 - Julio e Iagor/pratica_2/dec3to8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/pratica_2 - Julio e Iagor/pratica_2|C:/pratica_2 - Julio e Iagor/pratica_2/dec3to8.v|
+!s101 -O0
+Z4 o-vlog01compat -work work -O0
+Z5 !s92 -vlog01compat -work work {+incdir+C:/pratica_2 - Julio e Iagor/pratica_2} -O0
+vmemory
+I5jVW<LC1HLl_z^PQAOSNz2
+V];h6Xfl?X6@a`LV6K?n6V0
+R1
+w1614368973
+8C:/pratica_2 - Julio e Iagor/pratica_2/memory.v
+FC:/pratica_2 - Julio e Iagor/pratica_2/memory.v
+L0 39
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ]Si96Z9[R;34UEPXlD8X[1
+!s85 0
+!s108 1614370244.165000
+!s107 C:/pratica_2 - Julio e Iagor/pratica_2/memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/pratica_2 - Julio e Iagor/pratica_2|C:/pratica_2 - Julio e Iagor/pratica_2/memory.v|
+!s101 -O0
+vmultiplex
+I6`iPD7E[YRgAR2>6hXikj1
+VbkkZmgflSiL1LSRF<UBWb2
+R1
+R2
+8C:/pratica_2 - Julio e Iagor/pratica_2/multiplex.v
+FC:/pratica_2 - Julio e Iagor/pratica_2/multiplex.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 FFO<gZ^TKJhZHhlajVPg32
+!s85 0
+!s108 1614370243.810000
+!s107 C:/pratica_2 - Julio e Iagor/pratica_2/multiplex.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/pratica_2 - Julio e Iagor/pratica_2|C:/pratica_2 - Julio e Iagor/pratica_2/multiplex.v|
+!s101 -O0
+vpratica_2
+I=MND<^]fGf41Gb4ARgmJE2
+VAn5C8<YU^jFS@O<[8HF3j2
+R1
+R2
+8C:/pratica_2 - Julio e Iagor/pratica_2/pratica_2.v
+FC:/pratica_2 - Julio e Iagor/pratica_2/pratica_2.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 dWHge4P9<CWSlV:T`YSH:1
+!s85 0
+!s108 1614370243.448000
+!s107 C:/pratica_2 - Julio e Iagor/pratica_2/pratica_2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/pratica_2 - Julio e Iagor/pratica_2|C:/pratica_2 - Julio e Iagor/pratica_2/pratica_2.v|
+!s101 -O0
+vprocessor
+I7l7<X]eGo;UCATjmjHgNP3
+Va7Ij>bnXLJoD_QL;5PhDT1
+R1
+R2
+Z6 8C:/pratica_2 - Julio e Iagor/pratica_2/processor.v
+Z7 FC:/pratica_2 - Julio e Iagor/pratica_2/processor.v
+L0 23
+R3
+r1
+31
+Z8 !s108 1614370242.859000
+Z9 !s107 C:/pratica_2 - Julio e Iagor/pratica_2/processor.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/pratica_2 - Julio e Iagor/pratica_2|C:/pratica_2 - Julio e Iagor/pratica_2/processor.v|
+R4
+R5
+!i10b 1
+!s100 fBQ7g9^a[1XfEBOBc>m3z2
+!s85 0
+!s101 -O0
+vregn
+Ile@W[lUk8@HO<97<<PhTA1
+V>4I0:3RkDA`dV9OI9564:0
+R1
+R2
+R6
+R7
+L0 1
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 cI@8k6OPEX0@a>D2oKzzG1
+!s85 0
+!s101 -O0
+vregn_9
+IFiemNnX_MB2l53H`C>dzg1
+VoCG8b`c@Iz0e]PmUMVc_h2
+R1
+R2
+R6
+R7
+L0 12
+R3
+r1
+31
+R8
+R9
+R10
+R4
+R5
+!i10b 1
+!s100 I:`Rk7hfjT3>9z9X<^5Ci3
+!s85 0
+!s101 -O0
+vULA
+IA;L?eTMAja073MA=eI60V1
+VZ[Hf63>^BDJa?fQzWLi1U3
+R1
+R2
+8C:/pratica_2 - Julio e Iagor/pratica_2/ULA.v
+FC:/pratica_2 - Julio e Iagor/pratica_2/ULA.v
+L0 1
+R3
+r1
+31
+R4
+R5
+n@u@l@a
+!i10b 1
+!s100 0GK^VibLbU:6k]MaWc=IF1
+!s85 0
+!s108 1614370242.566000
+!s107 C:/pratica_2 - Julio e Iagor/pratica_2/ULA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/pratica_2 - Julio e Iagor/pratica_2|C:/pratica_2 - Julio e Iagor/pratica_2/ULA.v|
+!s101 -O0
+vupcount
+IDRjID1>[TdbD[VlaCCPSB2
+V6F[W^nTWj`kicHA9eP>;d3
+R1
+R2
+Z11 8C:/pratica_2 - Julio e Iagor/pratica_2/upcount.v
+Z12 FC:/pratica_2 - Julio e Iagor/pratica_2/upcount.v
+L0 1
+R3
+r1
+31
+Z13 !s108 1614370242.060000
+Z14 !s107 C:/pratica_2 - Julio e Iagor/pratica_2/upcount.v|
+Z15 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/pratica_2 - Julio e Iagor/pratica_2|C:/pratica_2 - Julio e Iagor/pratica_2/upcount.v|
+R4
+R5
+!i10b 1
+!s100 9B;AlnMGbWoK;MJ`7WoHH1
+!s85 0
+!s101 -O0
+vupcount_5
+IOKOlD@h^V1_Y>l;60]Og=1
+VNFFV_TBiQO`E]9CTDFmk@1
+R1
+R2
+R11
+R12
+L0 10
+R3
+r1
+31
+R13
+R14
+R15
+R4
+R5
+!i10b 1
+!s100 <L7cf]DP_[MnnIb0NV=QN1
+!s85 0
+!s101 -O0

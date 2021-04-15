@@ -1,0 +1,101 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'processor:proc|sinal_ULA[1]'
+Slack : -14.462
+TNS   : -226.225
+
+Type  : Slow Model Setup 'PClock'
+Slack : -11.460
+TNS   : -1598.903
+
+Type  : Slow Model Setup 'Run'
+Slack : -4.349
+TNS   : -98.724
+
+Type  : Slow Model Setup 'MClock'
+Slack : -0.752
+TNS   : -3.276
+
+Type  : Slow Model Hold 'Run'
+Slack : -8.475
+TNS   : -152.016
+
+Type  : Slow Model Hold 'processor:proc|sinal_ULA[1]'
+Slack : -1.865
+TNS   : -22.556
+
+Type  : Slow Model Hold 'PClock'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow Model Hold 'MClock'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'Run'
+Slack : -4.156
+TNS   : -853.888
+
+Type  : Slow Model Minimum Pulse Width 'MClock'
+Slack : -1.423
+TNS   : -20.610
+
+Type  : Slow Model Minimum Pulse Width 'PClock'
+Slack : -1.380
+TNS   : -172.380
+
+Type  : Slow Model Minimum Pulse Width 'processor:proc|sinal_ULA[1]'
+Slack : 0.500
+TNS   : 0.000
+
+Type  : Fast Model Setup 'processor:proc|sinal_ULA[1]'
+Slack : -6.174
+TNS   : -96.119
+
+Type  : Fast Model Setup 'PClock'
+Slack : -4.784
+TNS   : -658.513
+
+Type  : Fast Model Setup 'Run'
+Slack : -1.311
+TNS   : -29.481
+
+Type  : Fast Model Setup 'MClock'
+Slack : 0.207
+TNS   : 0.000
+
+Type  : Fast Model Hold 'Run'
+Slack : -3.701
+TNS   : -67.576
+
+Type  : Fast Model Hold 'processor:proc|sinal_ULA[1]'
+Slack : -1.238
+TNS   : -16.267
+
+Type  : Fast Model Hold 'PClock'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'MClock'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'Run'
+Slack : -1.445
+TNS   : -262.622
+
+Type  : Fast Model Minimum Pulse Width 'MClock'
+Slack : -1.423
+TNS   : -20.610
+
+Type  : Fast Model Minimum Pulse Width 'PClock'
+Slack : -1.380
+TNS   : -172.380
+
+Type  : Fast Model Minimum Pulse Width 'processor:proc|sinal_ULA[1]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------
